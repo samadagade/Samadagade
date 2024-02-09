@@ -42,8 +42,8 @@ I'm always open to collaboration and feedback. If you have any suggestions, impr
 ## 📫 Contact Me
 If you'd like to connect or have any questions, you can reach me via:
 
-- Email   : samarthdagade@gmail.com
-- LinkedIn: https://www.linkedin.com/in/samarth-dagade/
+- Email    : samarthdagade@gmail.com
+- [LinkedIn](https://www.linkedin.com/in/samarth-dagade/)
 
 ## Thank You!
 Thank you for taking the time to explore my GitHub repository. 
