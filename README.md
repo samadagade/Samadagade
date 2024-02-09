@@ -43,8 +43,7 @@ I'm always open to collaboration and feedback. If you have any suggestions, impr
 If you'd like to connect or have any questions, you can reach me via:
 
 - Email    : samarthdagade@gmail.com
-- [LinkedIn](https://www.linkedin.com/in/samarth-dagade/)
-
+- [LinkedIn](https://www.linkedin.com/in/samarth-dagade/)  - [GeeksForGeeks](https://auth.geeksforgeeks.org/user/samarthdagade/?utm_source=geeksforgeeks&utm_medium=my_profile&utm_campaign=auth_user)
 ## Thank You!
 Thank you for taking the time to explore my GitHub repository. 
 I hope you find something interesting and valuable here. 
