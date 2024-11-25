@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 # Hi there 👋 I'm Samarth Dagade
 
-🎓 **Software Developer | Engineering Graduate '24**
+🎓 **Jr. Software Developer | Engineering Graduate '24**
 
 🔧 Passionate about building high-quality, efficient, and scalable applications.
 
