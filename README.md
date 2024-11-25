@@ -20,43 +20,74 @@ Here are some ideas to get you started:
 </p>
 
 
-### Hi there 👋
-# Welcome to My GitHub Repository!
+# Hi there 👋 I'm Samarth Dagade
 
-## About Me
-Hello there! I'm thrilled to have you visit my GitHub profile. Here's a little bit about me:
+🎓 **Software Developer | Engineering Graduate '24**
 
-- Name: Samarth Dagade
-- Location: Akurdi, Pune
-- Skills: Java, Data Structures and Algorithms, Object-Oriented Programming, HTML, CSS
+🔧 Passionate about building high-quality, efficient, and scalable applications.
 
-## 🔭 What You'll Find Here
-In this repository, I've compiled some of my projects and code snippets that showcase my skills and interests. You'll find a mix of Java projects, implementations of various data structures and algorithms, as well as web development projects utilizing HTML and CSS.
+---
 
-## Highlights
+### 👨‍💻 About Me:
+- 🎓 Graduated in **2024** with a **Bachelor of Engineering** from **Nutan Maharashtra Institute of Engineering and Technology**.
+- 👨‍💻 Currently working as a **Junior Software Developer** at **Börm Bruckmeier Infotech India Private Limited**.
+- 💡 Enthusiast in **Java**, **DSA**, **MySQL**, and **Full-stack Web Development**.
+- 📚 **Researcher** with a published paper in **IJRSIT**.
+
+---
+
+### 🛠️ Technologies & Tools:
+- **Languages:** Java, OOP, Data Structure and Algorithms, Dart, Regex,
+- **Web:** HTML, CSS
+- **Database:** MySQL, Microsoft SQL Server 
+- **Tools:** GitHub, IntelliJ IDEA, Visual Studio Code, Eclipse
+
+---
+
+### 🌱 Currently Learning:
+- Exporing Development
+---
+
+### Highlights
 Here are some highlights of what you'll discover in this repository:
 
 1. **Java Projects**: From simple console-based programs to more complex applications, my Java projects demonstrate my proficiency in the language and object-oriented programming principles.
 
 2. **Data Structures and Algorithms**: Dive into implementations of essential data structures like linked lists, trees, graphs, and algorithms such as sorting, searching, and dynamic programming.
 
-3. **Web Development**: Explore my web development projects built with HTML and CSS, showcasing my ability to create visually appealing and responsive designs.
+3. **Web Development**: Explore my web development projects built wit
 
-## Contributions Welcome!
-I'm always open to collaboration and feedback. If you have any suggestions, improvements, or if you'd like to contribute to any of my projects, feel free to reach out or submit a pull request. Let's learn and grow together!
+---
 
-## 📫 Contact Me
-If you'd like to connect or have any questions, you can reach me via:
-
-- Email    : samarthdagade@gmail.com
-- [LinkedIn](https://www.linkedin.com/in/samarth-dagade/)
-- [GeeksForGeeks](https://auth.geeksforgeeks.org/user/samarthdagade/?utm_source=geeksforgeeks&utm_medium=my_profile&utm_campaign=auth_user)
+### 📂 My Projects:
+- [Online Code Editor](https://github.com/yourusername/online-code-editor) - A web-based code editor with real-time collaboration.
+- [Machine Learning Based Blood Cell Categorization](https://github.com/yourusername/ML-blood-cell-categorization) - Classification of blood cells using machine learning models.
+- [Visual Beat Sort](https://github.com/yourusername/visual-beat-sort) - A visualization tool for sorting algorithms with real-time graphics.
 - [Portfolio](https://samadagade.github.io/Mywebsite/)
-- [Project - Online Code Editor](https://samadagade.github.io/OnlineCodeEditor/)
-- [Resume](https://drive.google.com/drive/folders/18qnhkjVFJMbsUAMMbyoAu5tdWCF8Un9E)
-  
-## Thank You!
-Thank you for taking the time to explore my GitHub repository. 
-I hope you find something interesting and valuable here. 
-Happy coding!
 
+---
+
+### 📑 My Published Work:
+- [**Research Paper** - Machine Learning for Blood Cell Categorization]([https://link-to-your-paper.com](https://ijsrst.com/home/issue/view/article.php?id=IJSRST52310587))
+
+---
+
+### 📞 Let's Connect:
+- [LinkedIn](https://www.linkedin.com/in/samarthdagade)
+- Email: samarthdagade@gmail.com
+
+---
+
+### 🔥 Fun Facts:
+- 🏊‍♂️ Swimming enthusiast
+- ⛰️ Love trekking and exploring new places
+- 📖 Always curious, always learning
+
+---
+
+### ⭐ My GitHub Stats:
+![Samarth's GitHub Stats](https://github-readme-stats.vercel.app/api?username=samarthdagade&show_icons=true&hide_title=true&count_private=true&hide=prs)
+
+---
+
+Thank you for visiting my profile! Feel free to check out my repositories, and don't hesitate to reach out if you'd like to collaborate. Happy coding! 🚀
