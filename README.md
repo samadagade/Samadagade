@@ -86,7 +86,7 @@ Here are some highlights of what you'll discover in this repository:
 ---
 
 ### ⭐ My GitHub Stats:
-![Samarth's GitHub Stats](https://github-readme-stats.vercel.app/api?username=samarthdagade&show_icons=true&hide_title=true&count_private=true&hide=prs)
+![Samarth's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Samadagade&show_icons=true&hide_title=true&count_private=true&hide=prs)
 
 ---
 
