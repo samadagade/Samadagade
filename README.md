@@ -73,7 +73,7 @@ Here are some highlights of what you'll discover in this repository:
 ---
 
 ### 📞 Let's Connect:
-- [LinkedIn](https://www.linkedin.com/in/samarthdagade)
+- [LinkedIn](https://www.linkedin.com/in/samarth-dagade/)
 - Email: samarthdagade@gmail.com
 
 ---
