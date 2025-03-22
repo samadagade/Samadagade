@@ -69,14 +69,12 @@ Here are some highlights of what you'll discover in this repository:
 
 ### 📑 My Published Work:
 - [**Research Paper** - Machine Learning for Blood Cell Categorization]([https://link-to-your-paper.com](https://ijsrst.com/home/issue/view/article.php?id=IJSRST52310587))
-
 ---
 
 ### 📞 Let's Connect:
 - [LinkedIn](https://www.linkedin.com/in/samarth-dagade/)
 - Email: samarthdagade@gmail.com
-- [LinkedIn]([https://www.linkedin.com/in/samarth-dagade/](https://drive.google.com/file/d/1xpkp4nPMcbGA_1H40oNPOk-3l5RVxlM3/view))
-
+- [Resume]([https://www.linkedin.com/in/samarth-dagade/](https://drive.google.com/file/d/1xpkp4nPMcbGA_1H40oNPOk-3l5RVxlM3/view))
 ---
 
 ### 🔥 Fun Facts:
