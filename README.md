@@ -74,7 +74,7 @@ Here are some highlights of what you'll discover in this repository:
 ### 📞 Let's Connect:
 - [LinkedIn](https://www.linkedin.com/in/samarth-dagade/)
 - Email: samarthdagade@gmail.com
-- [Resume](https://drive.google.com/file/d/1y5xa30YeTiCNcd45XTFpHGQED_kIbqhM/view)
+- [Resume](https://drive.google.com/file/d/1Ptw9xWTdnjbF0SPnrQzXW1hwj75ZFYyw/view)
 ---
 
 ### 🔥 Fun Facts:
