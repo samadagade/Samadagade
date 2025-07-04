@@ -63,7 +63,7 @@ Here are some highlights of what you'll discover in this repository:
 - [Online Code Editor](https://github.com/yourusername/online-code-editor) - A web-based code editor with real-time collaboration.
 - [Machine Learning Based Blood Cell Categorization](https://github.com/yourusername/ML-blood-cell-categorization) - Classification of blood cells using machine learning models.
 - [Visual Beat Sort](https://github.com/yourusername/visual-beat-sort) - A visualization tool for sorting algorithms with real-time graphics.
-- [Portfolio](https://samadagade.github.io/Mywebsite/)
+- [Portfolio](https://samarth-dagade.netlify.app/)
 
 ---
 
