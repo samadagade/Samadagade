@@ -4,7 +4,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0078D7,100:00C4FF&text=Samarth%20Dagade&fontAlign=50&fontAlignY=40&fontColor=FFFFFF&fontSize=55" alt="Header Banner"/>
 </p>
 
-<h2 align="center">💻 Software Developer | 🧠 Researcher | 🚀 Problem Solver</h2>
+<h2 align="center">💻 Junior Software Developer | 🚀 Problem Solver</h2>
 
 <p align="center">
   <i>“Turning ideas into impactful digital experiences through code, creativity, and precision.”</i>
