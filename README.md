@@ -51,7 +51,7 @@ A modular Java system simulating a smart home setup (TV, Thermostat, Speakers), 
 
 ---
 
-### ⚡ [Multi-Threaded File Downloader](https://github.com/samadagade/Multi-Threaded-Downloader)
+### <img src="https://multi-threaded-downloader.netlify.app/favicon.png" alt="Multi-Threaded File Downloader" width="20" height="20"> [Multi-Threaded File Downloader](https://github.com/samadagade/Multi-Threaded-Downloader)r
 > HTML · CSS · JavaScript  
 A glassmorphism-styled web app for **multi-threaded downloads** with connection tracking and pause/resume support.
 
@@ -62,8 +62,7 @@ A glassmorphism-styled web app for **multi-threaded downloads** with connection 
 A lightweight, browser-based live code editor that lets you **write and preview HTML, CSS, and JS instantly**.
 
 ---
-
-### 🌐 [Portfolio Website](https://samarth-dagade.netlify.app/)
+### <img src="https://samarth-dagade.netlify.app/favicon.png" alt="Portfolio Website" width="20" height="20"> [Portfolio Website](https://samarth-dagade.netlify.app/)
 > HTML · CSS · JS  
 Personal portfolio showcasing my projects, research, and journey as a developer — designed with performance and clarity.
 
