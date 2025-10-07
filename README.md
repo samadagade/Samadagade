@@ -1,92 +1,157 @@
-
-
-<!--
-**Samadagade/Samadagade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- 🌟 Samarth Dagade | Developer • Researcher • Innovator 🌟 -->
 
 <p align="center">
-  <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0078D7,100:00C4FF&text=Samarth%20Dagade&fontAlign=50&fontAlignY=40&fontColor=FFFFFF&fontSize=55" alt="Header Banner"/>
 </p>
 
+<h2 align="center">💻 Software Developer | 🧠 Researcher | 🚀 Problem Solver</h2>
 
-# Hi there 👋 I'm Samarth Dagade
-
-🎓 **Jr. Software Developer | Engineering Graduate '24**
-
-🔧 Passionate about building high-quality, efficient, and scalable applications.
-
----
-
-### 👨‍💻 About Me:
-- 🎓 Graduated in **2024** with a **Bachelor of Engineering** from **Nutan Maharashtra Institute of Engineering and Technology**.
-- 👨‍💻 Currently working as a **Junior Software Developer** at **Börm Bruckmeier Infotech India Private Limited**.
-- 💡 Enthusiast in **Java**, **DSA**, **MySQL**, and **Full-stack Web Development**.
-- 📚 **Researcher** with a published paper in **IJRSIT**.
+<p align="center">
+  <i>“Turning ideas into impactful digital experiences through code, creativity, and precision.”</i>
+</p>
 
 ---
 
-### 🛠️ Technologies & Tools:
-- **Languages:** Java, OOP, Data Structure and Algorithms, Dart, Regex,
-- **Web:** HTML, CSS
-- **Database:** MySQL, Microsoft SQL Server 
-- **Tools:** GitHub, IntelliJ IDEA, Visual Studio Code, Eclipse
+## 👨‍💻 About Me
+
+Hi, I’m **Samarth Dagade**, a passionate **Software Developer** focused on building robust, elegant, and scalable applications.  
+I love writing clean, efficient code — and transforming complex challenges into simple, beautiful solutions.
+
+- 🎓 **B.E. in Computer Engineering (2024)** — *Nutan Maharashtra Institute of Engineering & Technology*  
+- 💼 Currently working as a **Junior Software Developer** at **Börm Bruckmeier Infotech India Pvt. Ltd.**  
+- 🧠 **Published Researcher** — *Machine Learning for Blood Cell Categorization* (IJRSIT Journal)  
+- 💡 Strong foundation in **Java**, **Flutter**, **DSA**, **SQL**, and **System Design**  
+- 🚀 Constantly learning **Spring Boot**, **REST APIs**, and **modern architectural patterns**
 
 ---
 
-### 🌱 Currently Learning:
-- Exporing Development
----
+## 🏢 Professional Experience
 
-### Highlights
-Here are some highlights of what you'll discover in this repository:
-
-1. **Java Projects**: From simple console-based programs to more complex applications, my Java projects demonstrate my proficiency in the language and object-oriented programming principles.
-
-2. **Data Structures and Algorithms**: Dive into implementations of essential data structures like linked lists, trees, graphs, and algorithms such as sorting, searching, and dynamic programming.
-
-3. **Web Development**: Explore my web development projects built wit
+### 💼 Junior Software Developer  
+**Börm Bruckmeier Infotech India Pvt. Ltd.** *(Oct 2024 – Present)*  
+- Enhanced UI/UX for **multiple Flutter-based apps** (AP, Rheum-a, DGK Web, EHA Web).  
+- Implemented **new features**: user accounts, analytics tracking, splash screens, and gradient TOCs.  
+- Created **flowcharts for authentication systems**, fixed major bugs, and improved performance.  
+- Researched **Flutter Web history management** to enhance browser navigation reliability.  
+- Oversaw **testing and deployment** pipelines using **TestFlight** and Git-based workflows.
 
 ---
 
-### 📂 My Projects:
-- [Online Code Editor](https://github.com/yourusername/online-code-editor) - A web-based code editor with real-time collaboration.
-- [Machine Learning Based Blood Cell Categorization](https://github.com/yourusername/ML-blood-cell-categorization) - Classification of blood cells using machine learning models.
-- [Visual Beat Sort](https://github.com/yourusername/visual-beat-sort) - A visualization tool for sorting algorithms with real-time graphics.
-- [Portfolio](https://samarth-dagade.netlify.app/)
+## 🚀 Highlighted Projects
+
+### 🛍️ [E-Commerce App](https://github.com/samadagade/E-commerce-App)
+> Flutter · Firebase · BLoC  
+A full-fledged Flutter e-commerce app with authentication, wishlist, cart, and elegant UI — designed for speed and scalability.
 
 ---
 
-### 📑 My Published Work:
-- [**Research Paper** - Machine Learning for Blood Cell Categorization]([https://link-to-your-paper.com](https://ijsrst.com/home/issue/view/article.php?id=IJSRST52310587))
----
-
-### 📞 Let's Connect:
-- [LinkedIn](https://www.linkedin.com/in/samarth-dagade/)
-- Email: samarthdagade@gmail.com
-- [Resume](https://drive.google.com/file/d/1Ptw9xWTdnjbF0SPnrQzXW1hwj75ZFYyw/view)
----
-
-### 🔥 Fun Facts:
-- 🏊‍♂️ Swimming enthusiast
-- ⛰️ Love trekking and exploring new places
-- 📖 Always curious, always learning
+### 🏠 [Smart Home Hub](https://github.com/samadagade/Smart-Home)
+> Java · OOP · JUnit  
+A modular Java system simulating a smart home setup (TV, Thermostat, Speakers), emphasizing OOP and reliable JUnit testing.
 
 ---
 
-### ⭐ My GitHub Stats:
-![Samarth's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Samadagade&show_icons=true&hide_title=true&count_private=true&hide=prs)
+### ⚡ [Multi-Threaded File Downloader](https://github.com/samadagade/Multi-Threaded-Downloader)
+> HTML · CSS · JavaScript  
+A glassmorphism-styled web app for **multi-threaded downloads** with connection tracking and pause/resume support.
 
 ---
 
-Thank you for visiting my profile! Feel free to check out my repositories, and don't hesitate to reach out if you'd like to collaborate. Happy coding! 🚀
+### 💻 [CodeAlchemy – Online Code Editor](https://github.com/samadagade/OnlineCodeEditor)
+> HTML · CSS · JavaScript  
+A lightweight, browser-based live code editor that lets you **write and preview HTML, CSS, and JS instantly**.
+
+---
+
+### 🌐 [Portfolio Website](https://samarth-dagade.netlify.app/)
+> HTML · CSS · JS  
+Personal portfolio showcasing my projects, research, and journey as a developer — designed with performance and clarity.
+
+---
+
+## 📑 Research Work
+
+🧬 **Paper:** *Machine Learning for Blood Cell Categorization*  
+📕 **Published In:** [IJRSIT Journal](https://ijsrst.com/home/issue/view/article.php?id=IJSRST52310587)  
+🎯 **Focus:** Classification of blood cells using supervised ML models and image processing techniques.  
+
+---
+
+## 🧠 Tech Stack
+
+**Frontend & Mobile:**  
+🚀 Flutter · HTML5 · CSS3  
+
+**Backend & Logic:**  
+☕ Java · Spring Boot · DSA · OOP  
+
+**Database:**  
+🗄️ MySQL · Firebase · SQL Server  
+
+**Dev Tools:**  
+🧰 Git · GitHub · IntelliJ IDEA · VS Code · Eclipse  
+
+**Soft Skills:**  
+💬 Communication · 🧩 Problem Solving · 🕒 Time Management  
+
+---
+
+## ⚙️ Toolkit I Use
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=flutter,java,html,css,mysql,git,github,vscode,eclipse,idea,firebase" />
+</p>
+
+---
+
+## 📈 GitHub Highlights
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Samadagade&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samadagade&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Samadagade&theme=tokyonight" />
+</p>
+
+---
+
+## 🔗 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/samarth-dagade/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:samarthdagade@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://drive.google.com/file/d/1Ptw9xWTdnjbF0SPnrQzXW1hwj75ZFYyw/view"><img src="https://img.shields.io/badge/Resume-00A86B?style=for-the-badge&logo=google-drive&logoColor=white"/></a>
+  <a href="https://samarth-dagade.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+  <a href="https://wa.me/9325728101"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
+  <a href="https://x.com/DagadeSamarth"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white"/></a>
+  <a href="https://www.geeksforgeeks.org/user/samarthdagade/"><img src="https://img.shields.io/badge/GFG-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/></a>
+</p>
+
+---
+
+## 🌐 Explore More
+
+> 🌎 Check out my work and projects on my **Portfolio Website**  
+> 🔗 [**samarth-dagade.netlify.app**](https://samarth-dagade.netlify.app/)
+
+---
+
+## 💬 Fun Facts
+
+- 🏊‍♂️ Competitive **swimmer** — discipline through rhythm.  
+- ⛰️ Passionate **trekker** — love chasing new peaks (literally).  
+- 🎧 Code with **lo-fi beats and coffee** ☕.  
+- 💭 Belief: *“Write code that not only works, but also tells a story.”*
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0078D7,100:00C4FF&height=2&section=footer"/>
+</p>
+
+<p align="center">
+  <b>"Code is where logic meets creativity — and that’s where I thrive."</b>  
+  <br><br>✨ Thanks for visiting my profile — let’s build something remarkable together. 🚀
+</p>
