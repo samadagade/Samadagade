@@ -51,7 +51,7 @@ A modular Java system simulating a smart home setup (TV, Thermostat, Speakers), 
 
 ---
 
-### <img src="https://multi-threaded-downloader.netlify.app/favicon.png" alt="Multi-Threaded File Downloader" width="20" height="20"> [Multi-Threaded File Downloader](https://github.com/samadagade/Multi-Threaded-Downloader)r
+### <img src="https://multi-threaded-downloader.netlify.app/favicon.png" alt="Multi-Threaded File Downloader" width="20" height="20"> [Multi-Threaded File Downloader](https://github.com/samadagade/Multi-Threaded-Downloader)
 > HTML · CSS · JavaScript  
 A glassmorphism-styled web app for **multi-threaded downloads** with connection tracking and pause/resume support.
 
