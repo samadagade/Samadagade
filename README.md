@@ -39,6 +39,12 @@ I love writing clean, efficient code — and transforming complex challenges int
 
 ## 🚀 Highlighted Projects
 
+### 🛍️ [OrgTrack Backend](https://github.com/samadagade/orgtrack-backend)
+> Java-17 · Spring Boot · Spring Security · Spring MVC · JWT · PostgreSQL
+OrgTrack is a Spring Boot–based project management system that enforces a structured project lifecycle (DRAFT, ACTIVE, COMPLETED, ARCHIVED) through service-layer business validations. It integrates PostgreSQL using Spring Data JPA with support for pagination, sorting, auditing fields, and soft deletes.
+
+---
+
 ### 🛍️ [E-Commerce App](https://github.com/samadagade/E-commerce-App)
 > Flutter · Firebase · BLoC  
 A full-fledged Flutter e-commerce app with authentication, wishlist, cart, and elegant UI — designed for speed and scalability.
