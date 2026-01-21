@@ -39,7 +39,7 @@ I love writing clean, efficient code — and transforming complex challenges int
 
 ## 🚀 Highlighted Projects
 
-### 🛍️ [OrgTrack Backend](https://github.com/samadagade/orgtrack-backend)
+### <img src="https://cdn-icons-png.flaticon.com/512/7018/7018517.png" alt="Multi-Threaded File Downloader" width="20" height="20"> [OrgTrack Backend](https://github.com/samadagade/orgtrack-backend)
 > Java-17 · Spring Boot · Spring Security · Spring MVC · JWT · PostgreSQL   
 OrgTrack is a Spring Boot–based project management system that enforces a structured project lifecycle (DRAFT, ACTIVE, COMPLETED, ARCHIVED) through service-layer business validations. It integrates PostgreSQL using Spring Data JPA with support for pagination, sorting, auditing fields, and soft deletes.
 
