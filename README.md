@@ -88,7 +88,7 @@ Personal portfolio showcasing my projects, research, and journey as a developer 
 🚀 Flutter · HTML5 · CSS3  
 
 **Backend & Logic:**  
-☕ Java · Spring Boot · DSA · OOP  
+☕ Java · Spring Boot · DSA · OOP · Firebase
 
 **Database:**  
 🗄️ MySQL · Firebase · SQL Server  
