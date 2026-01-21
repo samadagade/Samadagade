@@ -69,7 +69,7 @@ A lightweight, browser-based live code editor that lets you **write and preview 
 
 ---
 ### <img src="https://samarth-dagade.netlify.app/favicon.png" alt="Portfolio Website" width="20" height="20"> [Portfolio Website](https://samarth-dagade.netlify.app/)
-> HTML · CSS · JS  
+> Flutter · GeminiAI · Springboot  
 Personal portfolio showcasing my projects, research, and journey as a developer — designed with performance and clarity.
 
 ---
