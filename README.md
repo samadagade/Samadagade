@@ -88,7 +88,7 @@ Personal portfolio showcasing my projects, research, and journey as a developer 
 🚀 Flutter · HTML5 · CSS3  
 
 **Backend & Logic:**  
-☕ Java · Spring Boot · DSA · OOP · Firebase
+☕ Java · Spring Boot · DSA · OOP 
 
 **Database:**  
 🗄️ MySQL · Firebase · SQL Server  
@@ -104,7 +104,7 @@ Personal portfolio showcasing my projects, research, and journey as a developer 
 ## ⚙️ Toolkit I Use
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,java,html,css,mysql,git,github,vscode,eclipse,idea,firebase" />
+  <img src="https://skillicons.dev/icons?i=java,springboot,flutter,html,css,mysql,git,github,vscode,eclipse,idea,firebase" />
 </p>
 
 ---
