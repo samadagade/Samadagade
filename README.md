@@ -104,7 +104,7 @@ Personal portfolio showcasing my projects, research, and journey as a developer 
 ## ⚙️ Toolkit I Use
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,springboot,flutter,html,css,mysql,git,github,vscode,eclipse,idea,firebase" />
+  <img src="https://skillicons.dev/icons?i=java,flutter,html,css,mysql,git,github,vscode,eclipse,idea,firebase" />
 </p>
 
 ---
